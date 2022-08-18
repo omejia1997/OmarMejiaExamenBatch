@@ -1,0 +1,12 @@
+1726434507,Mejia,Omar,1
+1722367849,Loachamin,Luis,1
+1733454781,Condor,Byron,1
+1734567893,Bastidas,Erick,1
+1726434504,Basantes,Erick,1
+1722367845,Casamen,Luis,1
+1736434507,Mejia,Omar,1
+1732367849,Loachamin,Luis,1
+1743454781,Condor,Byron,1
+1744567893,Bastidas,Erick,1
+1746434504,Basantes,Erick,1
+1742367845,Casamen,Luis,1
